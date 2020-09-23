@@ -1,1 +1,1 @@
-# Visualizing life expectancy differences
+# Visualizing life expectancy
