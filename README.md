@@ -11,6 +11,8 @@
 <img src = "Female/Female 1990-1995.png" width = "300" height = "300"><img src = "Female/Female 1985-1990.png" width = "300" height = "300">
 
 #### Male vs Female
+Green represents 3 countries with highest Female-Male ratio in life expectancy
+Red represents 3 countries with Lowest Female-Male ratio in life expectancy
 <img src = "Male vs Female/2000-2005.png" width = "300" height = "300"><img src = "Male vs Female/1995-2000.png" width = "300" height = "300">
 <img src = "Male vs Female/1990-1995.png" width = "300" height = "300"><img src = "Male vs Female/1985-1990.png" width = "300" height = "300">
 
