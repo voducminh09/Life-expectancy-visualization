@@ -2,8 +2,6 @@
 
 ### Dataset: http://data.un.org/Data.aspx?d=GenderStat&f=inID:37&c=1,2,3,4,5,6&s=crEngName:asc,sgvEngName:asc,timeEngName:desc&v=1
 
-### Visualization
-
 #### Year 2000-2005
 <img src = "Male/Male 2000-2005.png" width = "450" height = "360">
 <img src = "Female/Female 2000-2005.png" width = "450" height = "360">
