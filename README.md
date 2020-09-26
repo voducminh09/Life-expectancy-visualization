@@ -5,6 +5,7 @@
 ### Visualization
 
 #### Year 2000-2005
-<img src = "image/Male 2000-2005.png" width = "600" height = "360">
-<img src = "image/Female 2000-2005.png" width = "600" height = "360">
-<img src = "image/2000-2005.png" width = "600" height = "360">
+<img src = "image/Male/Male 2000-2005.png" width = "600" height = "360">
+<img src = "image/Female/Female 2000-2005.png" width = "600" height = "360">
+<img src = "image/Male vs Female/ 2000-2005.png" width = "600" height = "360">
+Male/Male 2000-2005.png
